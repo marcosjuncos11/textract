@@ -10,3 +10,4 @@ pdfminer.six==20221105
 python-pptx~=0.6.18
 six==1.15.0
 xlrd==2.0.1
+SpeechRecognition==3.9.0
